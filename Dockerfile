@@ -13,3 +13,6 @@ COPY --from=builder /app/build /usr/share/nginx/html
 
 
 
+#user: docker-react-travis-ci
+#accessKeyID: AKIARSPET4OWYFJKU4YR
+#secretKey: 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
